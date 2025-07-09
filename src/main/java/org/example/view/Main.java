@@ -167,6 +167,7 @@ public class Main {
         }
     }
 
+
     private static void gerenciarEventos() {
         System.out.println("\n--- Gerenciamento de Eventos ---");
     }
