@@ -29,7 +29,7 @@ Gestao-de-Eventos-WR/
 │   ├── ──── dao/
 │   ├── ────── view/
 │   └── ────────── Main.java
-├── utils/
+├── resources/
 │   └── pharus2_eventos.db
 ├── README.md
 └── .gitignore
